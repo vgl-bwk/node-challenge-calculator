@@ -1,0 +1,25 @@
+{
+  "name": "calculator",
+  "version": "0.1.0",
+  "description": "Adds, substracts, multiplies and divides numbers",
+  "main": "server.js",
+  "scripts": {
+    "debug": "nodemon server.js"
+  },
+  "keywords": [
+    "\"express\"",
+    "\"math\"",
+    "\"add\"",
+    "\"substract\"",
+    "\"multiply\"",
+    "\"divide\""
+  ],
+  "author": "vgl-bwk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
